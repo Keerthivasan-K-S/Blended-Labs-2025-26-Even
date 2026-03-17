@@ -3,7 +3,7 @@
 ## Author
 
 
-* **Name**: Keerthivasan K S 212224230120
+* **Name**: Keerthivasan K S
 * **Register Number**: 212224230120
 ---
 
